@@ -85,8 +85,27 @@ This platform helps organizations:
 
 ## Screenshots
 
-(Add dashboard screenshots here)
+### Executive Dashboard
 
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+---
+
+### AI Revenue Forecast
+
+![Forecasting](screenshots/forecasting.png)
+
+---
+
+### Marketing Analytics
+
+![Marketing Analytics](screenshots/marketing-analytics.png)
+
+---
+
+### Executive KPIs
+
+![Executive KPIs](screenshots/executive-kpis.png)
 ---
 
 ## Future Improvements
